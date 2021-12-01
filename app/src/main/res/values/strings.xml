@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyApplication3</string>
+    <string name="text_button">Text button</string>
+    <string name="right_button">right button</string>
+    <string name="left_button">Left button</string>
+    <string name="center_button">Center button</string>
 </resources>
